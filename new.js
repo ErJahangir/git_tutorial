@@ -1,8 +1,6 @@
-var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let str = "My name is jahangir alam";
 
-for (var k in arr) {
-  console.log(arr[k]);
-}
-console.log("vikash");
+const str1 = str.split(" ").reverse().join(" ");
 
-console.log("Jahangir");
+console.log(str);
+console.log(str1);
