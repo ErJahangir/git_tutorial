@@ -10,3 +10,4 @@ for (var i of arr) {
 //   console.log({ [i]: arr[i] });
 // }
 console.log(counts);
+console.log(counts[5]);
