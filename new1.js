@@ -6,7 +6,7 @@ for (var i of arr) {
   counts[i] = counts[i] ? counts[i] + 1 : 1;
 }
 
-// for (var i in arr) {
-//   console.log({ [i]: arr[i] });
-// }
+for (var i in arr) {
+  console.log({ [i]: arr[i] });
+}
 console.log(counts);
