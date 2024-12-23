@@ -6,4 +6,3 @@ for (var k in arr) {
 
 console.log("vikash Kumar gupta");
 
-console.log("vikash kumar");
